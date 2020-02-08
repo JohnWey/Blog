@@ -126,9 +126,9 @@ comments:
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
   gitalk:
-    clientID    : 56dd3426be774a5cca1e # GitHub Application Client ID
-    clientSecret: 869edbe0c23d16e590db7ef859f2c43571ef32bc # GitHub Application Client Secret
-    repository  : blog # GitHub repo
+    clientID    : 8a89332dc70aafcc5250 # GitHub Application Client ID
+    clientSecret: 146b3c56a52025bdf1f1d6006e942d23b704a793 # GitHub Application Client Secret
+    repository  : blog_comment # GitHub repo
     owner       : JohnWey # GitHub repo owner
     admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
        - JohnWey
